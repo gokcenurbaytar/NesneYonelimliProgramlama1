@@ -1,0 +1,10 @@
+C:\Users\gokce\OneDrive\Masaüstü\donem3\oop\oop1odev\oop1odev\bin\Debug\oop1odev.exe.config
+C:\Users\gokce\OneDrive\Masaüstü\donem3\oop\oop1odev\oop1odev\bin\Debug\oop1odev.exe
+C:\Users\gokce\OneDrive\Masaüstü\donem3\oop\oop1odev\oop1odev\bin\Debug\oop1odev.pdb
+C:\Users\gokce\OneDrive\Masaüstü\donem3\oop\oop1odev\oop1odev\obj\Debug\oop1odev.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Masaüstü\donem3\oop\oop1odev\oop1odev\obj\Debug\oop1odev.Form1.resources
+C:\Users\gokce\OneDrive\Masaüstü\donem3\oop\oop1odev\oop1odev\obj\Debug\oop1odev.Properties.Resources.resources
+C:\Users\gokce\OneDrive\Masaüstü\donem3\oop\oop1odev\oop1odev\obj\Debug\oop1odev.csproj.GenerateResource.cache
+C:\Users\gokce\OneDrive\Masaüstü\donem3\oop\oop1odev\oop1odev\obj\Debug\oop1odev.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\donem3\oop\oop1odev\oop1odev\obj\Debug\oop1odev.exe
+C:\Users\gokce\OneDrive\Masaüstü\donem3\oop\oop1odev\oop1odev\obj\Debug\oop1odev.pdb
